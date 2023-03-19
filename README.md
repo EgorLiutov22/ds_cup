@@ -4,4 +4,4 @@
 ## 2. ML Model [go to ipynb](https://github.com/EgorLiutov22/ds_cup/blob/main/train_st.ipynb)
 ## 3. Анализ tets датасета после обучения. [go to ipynb](https://github.com/EgorLiutov22/ds_cup/blob/main/postprocessing.ipynb)
 #### 3.1. Анализ 2 самых популярных постов и комментариев к ним. Инсайты и выводы в презентации. [Тут Excel](https://github.com/EgorLiutov22/ds_cup/blob/main/2_top_posts_testdf.xlsx)
-## 5. Презентация в .pdf [здесь лежит]()
+## 4. Презентация в .pdf [здесь лежит]()
